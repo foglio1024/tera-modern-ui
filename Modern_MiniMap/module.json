@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate" : false,
     "dependencies" : {
-        "Modern_Resources" : "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
+        "modern-Resources" : "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
     },
     "name" : "modern-MiniMap",
     "category" : "client",
