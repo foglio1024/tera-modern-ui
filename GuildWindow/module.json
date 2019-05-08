@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "modern-GuildWindow",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Guild",
+        "niceName" : "Modern UI: Guild"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/GuildWindow/"
+    ]
+}

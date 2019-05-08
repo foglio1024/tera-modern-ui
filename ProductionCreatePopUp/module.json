@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "modern-ProductionCreatePopUp",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Crafting popup",
+        "niceName" : "Modern UI: Crafting popup"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/ProductionCreatePopUp/"
+    ]
+}

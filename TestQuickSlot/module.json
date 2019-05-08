@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "modern-TestQuickSlot",
+    "category" : "client",
+    "author" : "Foglio",
+    "description" : "Auto-hides skill bar when closing skill window. Requires \"Modern UI: Skill window (hides skill bar)\".",
+    "options" : {
+        "guiName" : "Modern UI: Skill bar (auto-hide)",
+        "niceName" : "Modern UI: Skill bar (auto-hide)"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/TestQuickSlot/"
+    ]
+}

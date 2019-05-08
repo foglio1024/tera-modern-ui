@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "modern-ParcelPostLog",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Parcel post",
+        "niceName" : "Modern UI: Parcel post"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/ParcelPostLog/"
+    ]
+}

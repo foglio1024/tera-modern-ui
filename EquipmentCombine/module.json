@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "modern-EquipmentCombine",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Equipment infusion",
+        "niceName" : "Modern UI: Equipment infusion"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/EquipmentCombine/"
+    ]
+}
