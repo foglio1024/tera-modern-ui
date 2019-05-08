@@ -1,13 +1,3 @@
 {
-    "disableAutoUpdate" : false,
-    "name" : "modern-InteractionPopup",
-    "category" : "client",
-    "author" : "Foglio",
-    "options" : {
-        "guiName" : "Modern UI: Popups",
-        "niceName" : "Modern UI: Popups"
-    },
-    "servers" : [
-        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/InteractionPopup/"
-    ]
+	"disableAutoUpdate": false
 }

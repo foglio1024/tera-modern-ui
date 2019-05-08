@@ -1,13 +1,3 @@
 {
-    "disableAutoUpdate" : false,
-    "name" : "modern-TradePopup",
-    "category" : "client",
-    "author" : "Foglio",
-    "options" : {
-        "guiName" : "Modern UI: Trade popup",
-        "niceName" : "Modern UI: Trade popup"
-    },
-    "servers" : [
-        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/TradePopup/"
-    ]
+	"disableAutoUpdate": false
 }

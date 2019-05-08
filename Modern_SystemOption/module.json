@@ -1,13 +1,3 @@
 {
-    "disableAutoUpdate" : false,
-    "name" : "modern-SystemOption",
-    "category" : "client",
-    "author" : "Foglio",
-    "options" : {
-        "guiName" : "Modern UI: Options",
-        "niceName" : "Modern UI: Options"
-    },
-    "servers" : [
-        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/SystemOption/"
-    ]
+	"disableAutoUpdate": false
 }
