@@ -1,3 +1,14 @@
 {
-	"disableAutoUpdate": false
+    "disableAutoUpdate" : false,
+    "name" : "modern-RES_Component",
+    "category" : "client",
+    "author" : "Foglio",
+    "description" : "Modern UI core module containing many global elements used by other Modern UI windows.",
+    "options" : {
+        "guiName" : "Modern Core: Component",
+        "niceName" : "Modern Core: Component"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/RES_Component/"
+    ]
 }

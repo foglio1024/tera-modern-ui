@@ -1,3 +1,13 @@
 {
-	"disableAutoUpdate": false
+    "disableAutoUpdate" : false,
+    "name" : "modern-EpWindow",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Talents",
+        "niceName" : "Modern UI: Talents"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/EpWindow/"
+    ]
 }

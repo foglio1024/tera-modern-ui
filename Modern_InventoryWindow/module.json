@@ -1,3 +1,13 @@
 {
-	"disableAutoUpdate": false
+    "disableAutoUpdate" : false,
+    "name" : "modern-InventoryWindow",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Inventory",
+        "niceName" : "Modern UI: Inventory"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/InventoryWindow/"
+    ]
 }

@@ -1,3 +1,13 @@
 {
-	"disableAutoUpdate": false
+    "disableAutoUpdate" : false,
+    "name" : "modern-EquipmentUpgrade",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Forge",
+        "niceName" : "Modern UI: Forge"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/EquipmentUpgrade/"
+    ]
 }

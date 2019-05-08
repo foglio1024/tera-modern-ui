@@ -1,3 +1,13 @@
 {
-	"disableAutoUpdate": false
+    "disableAutoUpdate" : false,
+    "name" : "modern-WareHouseWindow",
+    "category" : "client",
+    "author" : "Foglio",
+    "options" : {
+        "guiName" : "Modern UI: Bank",
+        "niceName" : "Modern UI: Bank"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/WareHouseWindow/"
+    ]
 }
