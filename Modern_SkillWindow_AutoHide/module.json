@@ -1,6 +1,6 @@
 {
     "disableAutoUpdate" : false,
-    "name" : "modern-SkillWindowAutoHide",
+    "name" : "modern-SkillWindow_AutoHide",
     "category" : "client",
     "author" : "Foglio",
     "description" : "This mod automatically hides skill bar when skill window is closed.",
@@ -9,6 +9,6 @@
         "niceName" : "Modern UI: Skill window (hides skill bar)"
     },
     "servers" : [
-        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_SkillWindowAutoHide/"
+        "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_SkillWindow_AutoHide/"
     ]
 }
