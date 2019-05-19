@@ -1,6 +1,7 @@
 {
 	"files": {
 		"S1UI_ServantStorageWindow.gpk": "5d2e065779667af8e2cf397a97e701a7f9b00b011a36cd068c282897e28573d5",
-		"module.json": "aeb717e8ff260b84e7d68839e1699d680c0b531ceb35b09e1e57d1782179d3f8"
+		"index.js": "ad6751e7d29c5bbff64843efa4df11b1b703c7d5651b953ba44de0a06abc590e",
+		"module.json": "0d26c851cdbc125b2733a8059e98cba879bfbe866e2dcd3e2006a4408df7b158"
 	}
 }
