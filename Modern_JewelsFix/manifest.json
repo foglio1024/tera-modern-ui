@@ -2,8 +2,8 @@
 	"files": {
 		"Icon_Items.gpk": "797c005c4614636cfcecca919be197dcc46a6f7abbbd5e9c4adc74ead552ded3",
 		"S1UI_InventoryWindow.gpk": "6daa31079db4d3a46260f17de96ae2acb9cadbd3eee776903dbf348a5e3eeeda",
-		"S1UI_PaperDoll.gpk": "028e57c4cfaba27ecb5519546a59030e084b19ff789f293c0e978d0a5ad1f00c",
-		"index.js": "12e6257a083cda98e3bf7eab2cd37294cfc260dd0a98064c4ead5bf53769bf1e",
+		"S1UI_PaperDoll.gpk": "0bee6922c7e5142c97f7c6776477230f8b001ecd59a000db1d6f53e8e06b85dc",
+		"index.js": "368fc2998f04a701e6c8a878097577f598a8ebc25628ee4823091866350ebfa4",
 		"module.json": "c1a05f5f21017afeef4fed50028ea03aec93e469083032b0787e497104d50af3"
 	}
 }
