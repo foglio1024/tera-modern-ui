@@ -6,7 +6,7 @@ module.exports = function Resources(m)
         m.installGPK("86/S1UIRES_Component.gpk");
         m.installGPK("86/S1UIRES_Atlas.gpk");
     }
-    if (m.majorPatchVersion >= 85)
+    else if (m.majorPatchVersion >= 85)
     {
         m.installGPK("85/S1UIRES_Skin.gpk");
         m.installGPK("85/S1UIRES_Component.gpk");
