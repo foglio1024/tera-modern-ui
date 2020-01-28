@@ -1,9 +1,15 @@
 module.exports = function Resources(m)
 {
-    if (m.majorPatchVersion >= 90)
+    if (m.majorPatchVersion > 90)
     {
         m.warn('Mod disabled due to incompatibility with current patch. Wait for an update by the developer.');
         return;
+    }
+    else if (m.majorPatchVersion >= 90)
+    {
+        m.installGPK("85/S1UIRES_Skin.gpk");
+        m.installGPK("90/S1UIRES_Component.gpk");
+        m.installGPK("86/S1UIRES_Atlas.gpk");
     }
     else if (m.majorPatchVersion >= 86)
     {
