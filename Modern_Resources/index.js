@@ -1,11 +1,11 @@
 module.exports = function Resources(m)
 {
-    if (m.majorPatchVersion > 91)
+    if (m.majorPatchVersion > 92)
     {
         m.warn('Mod disabled due to incompatibility with current patch. Wait for an update by the developer.');
         return;
     }
-    else if (m.majorPatchVersion >= 91)
+    else if (m.majorPatchVersion >= 92)
     {
         m.installGPK("85/S1UIRES_Skin.gpk");
         m.installGPK("90/S1UIRES_Component.gpk");
