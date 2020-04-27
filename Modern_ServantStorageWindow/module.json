@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate" : false,
     "dependencies" : {
-        "modern-Resources" : "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ServantStorageWindow/module.json"
+        "modern-Resources" : "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/module.json"
     },
     "name" : "modern-ServantStorageWindow",
     "category" : "client",
