@@ -1,6 +1,6 @@
 module.exports = function SkillWindow_AutoHide(m)
 {
-    if (m.majorPatchVersion > 92)
+    if (m.majorPatchVersion > 93)
     {
         m.warn('Mod disabled due to incompatibility with current patch. Wait for an update by the developer.');
         return;
