@@ -1,9 +1,9 @@
 {
 	"files": {
-		"Icon_Items.gpk": "ee125a5ed157247f9cea6a6fe241865729becdaa4c48f1288096991fd78b4e80",
-		"S1UI_InventoryWindow.gpk": "c5fff086a548a88e56190e5aa171fb76a721ea56ec967ee097c6eab2bcd9444a",
-		"S1UI_PaperDoll.gpk": "92df2e16aa7717e0ae88d1bdbf5da957b17dc0f2505c6d129a77b9f13cf6b3de",
-		"index.js": "f519f33a72cc52f61010132cfb12dfff8acbf422802e0bf2fec515d2ef57a2c6",
+		"Icon_Items.gpk": "8827aae172c0617ae104d1eeaf1faa26e9b0324359db2cf46650b7a43ecee374",
+		"S1UI_InventoryWindow.gpk": "e0e60cf0ee8b201ad6ebb9117e22e9745348e6004596087ee81a76595506d3b6",
+		"S1UI_PaperDoll.gpk": "2d98db4e2a15316379623cd17ced7a0cf22ef7f70dfc768027adc776a1b31f4a",
+		"index.js": "5f6e1b1d101b3a905ca67037ba12d0a1d91e213e669243708ccdd83b65d57d21",
 		"module.json": "c1a05f5f21017afeef4fed50028ea03aec93e469083032b0787e497104d50af3"
 	}
 }
