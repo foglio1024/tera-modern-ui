@@ -1,10 +1,18 @@
-module.exports = function JewelsFix(m) {
-    if (m.majorPatchVersion > 95)
+exports.ClientMod = class
+{
+    constructor(mod)
     {
-        m.warn('Mod disabled due to incompatibility with current patch. Wait for an update by the developer.');
-        return;
+        this.install = function(installer)
+        {
+            if (mod.clientInterface.arch == 'x64') return;
+            if (mod.majorPatchVersion > 95)
+            {
+                mod.warn('Mod disabled due to incompatibility with current patch. Wait for an update by the developer.');
+                return;
+            }
+            installer.gpk("S1UI_PaperDoll.gpk");
+            installer.gpk("S1UI_InventoryWindow.gpk");
+            installer.gpk("Icon_Items.gpk");
+        };
     }
-    m.installGPK("S1UI_PaperDoll.gpk");
-    m.installGPK("S1UI_InventoryWindow.gpk");
-    m.installGPK("Icon_Items.gpk");
 }

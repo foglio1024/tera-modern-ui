@@ -1,3 +1,11 @@
-module.exports = function TradePopup(m) {
-    m.installGPK("S1UI_TradePopup.gpk");
+exports.ClientMod = class 
+{
+    constructor(mod)
+    {
+        this.install = function(installer)
+        {
+            if (mod.clientInterface.arch == 'x64') return;
+            installer.gpk("S1UI_TradePopup.gpk");
+        };
+    }
 }

@@ -1,20 +1,30 @@
-module.exports = function WareHouseWindow(m)
+exports.ClientMod = class
 {
-    if (m.majorPatchVersion > 93)
+    constructor(mod)
     {
-        m.warn('Mod disabled due to incompatibility with current patch. Wait for an update by the developer.');
-        return;
-    }
-    if (m.majorPatchVersion >= 93)
-    {
-        m.installGPK("93/S1UI_WareHouseWindow.gpk");
-    }
-    else if (m.majorPatchVersion >= 85)
-    {
-        m.installGPK("85/S1UI_WareHouseWindow.gpk");
-    }
-    else
-    {
-        m.installGPK("83/S1UI_WareHouseWindow.gpk");
+        this.install = function(installer)
+        {
+            if (mod.clientInterface.arch == 'x64')
+            {
+                return;
+            }
+            else if (mod.majorPatchVersion > 93)
+            {
+                mod.warn('Mod disabled due to incompatibility with current patch. Wait for an update by the developer.');
+                return;
+            }
+            if (mod.majorPatchVersion >= 93)
+            {
+                installer.gpk("93/S1UI_WareHouseWindow.gpk");
+            }
+            else if (mod.majorPatchVersion >= 85)
+            {
+                installer.gpk("85/S1UI_WareHouseWindow.gpk");
+            }
+            else
+            {
+                installer.gpk("83/S1UI_WareHouseWindow.gpk");
+            }
+        }
     }
 }
