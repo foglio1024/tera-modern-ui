@@ -8,7 +8,7 @@
     "author" : "Foglio",
     "options" : {
         "guiName" : "Modern UI: Friend list",
-        "niceName" : "Modern UI: Friend list"
+        "cliName" : "Modern UI: Friend list"
     },
     "servers" : [
         "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_CommunityWindow/"

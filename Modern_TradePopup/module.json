@@ -8,7 +8,7 @@
     "author" : "Foglio",
     "options" : {
         "guiName" : "Modern UI: Trade popup",
-        "niceName" : "Modern UI: Trade popup"
+        "cliName" : "Modern UI: Trade popup"
     },
     "servers" : [
         "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_TradePopup/"

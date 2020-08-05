@@ -8,7 +8,7 @@
     "author" : "Foglio",
     "options" : {
         "guiName" : "Modern UI: Forge",
-        "niceName" : "Modern UI: Forge"
+        "cliName" : "Modern UI: Forge"
     },
     "servers" : [
         "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_EquipmentUpgrade/"

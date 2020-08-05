@@ -9,7 +9,7 @@
     "description": "This mod automatically hides skill bar when skill window is closed.",
     "options": {
         "guiName": "Modern UI: Skill window (hides skill bar)",
-        "niceName": "Modern UI: Skill window (hides skill bar)"
+        "cliName": "Modern UI: Skill window (hides skill bar)"
     },
     "servers": [
         "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_SkillWindow_AutoHide/"

@@ -13,7 +13,7 @@
     "author" : "Foglio",
     "options" : {
         "guiName" : "Modern UI: Jewels fix",
-        "niceName" : "Modern UI: Jewels fix"
+        "cliName" : "Modern UI: Jewels fix"
     },
     "servers" : [
         "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_JewelsFix/"

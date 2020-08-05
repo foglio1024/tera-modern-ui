@@ -8,7 +8,7 @@
     "author" : "Foglio",
     "options" : {
         "guiName" : "Modern UI: Companion list",
-        "niceName" : "Modern UI: Companion list"
+        "cliName" : "Modern UI: Companion list"
     },
     "servers" : [
         "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ServantStorageWindow/"

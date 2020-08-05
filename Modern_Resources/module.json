@@ -6,7 +6,7 @@
     "description" : "Modern UI dependency module containing many global elements used by other Modern UI windows.",
     "options" : {
         "guiName" : "Modern UI: Resources",
-        "niceName" : "Modern UI: Resources"
+        "cliName" : "Modern UI: Resources"
     },
     "servers" : [
         "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_Resources/"
