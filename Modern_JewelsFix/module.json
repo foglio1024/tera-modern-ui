@@ -9,7 +9,7 @@
     ],
     "name" : "modern-JewelsFix",
     "description" : "Shows different sets of jewels with different icons (blue-ish for power, red-ish for crit). Not compatible with 'Modern UI: Profile' and 'Modern UI: Inventory'",
-    "category" : "client",
+    "keywords" : ["client"],
     "author" : "Foglio",
     "options" : {
         "guiName" : "Modern UI: Jewels fix",

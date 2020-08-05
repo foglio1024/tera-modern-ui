@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate" : false,
     "name" : "modern-Resources",
-    "category" : "client",
+    "keywords" : ["client"],
     "author" : "Foglio",
     "description" : "Modern UI dependency module containing many global elements used by other Modern UI windows.",
     "options" : {
